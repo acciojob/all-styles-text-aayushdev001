@@ -1,2 +1,13 @@
-
+.main{
+    width: 200px;
+    background-color: purple;
+    border-left-width: 5px;
+    border-left-color: green;
+    border-left-style: solid;
+    padding: 10px;
+}
+h1{
+    font-size: 20px;
+    color: white;
+}
 /* Your CSS Code here. */
